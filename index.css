@@ -1,3 +1,7 @@
 body {
     background-color: skyblue;
 }
+
+p.emoji {
+    font-size: 2em;
+}
